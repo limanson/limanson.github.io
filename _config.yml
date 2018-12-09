@@ -10,8 +10,8 @@ url: http://limanson.github.io
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: 
 
-#author: 
-#copyright: 
+author: Powered by Jekyll
+copyright: 2018
 
 share:
   facebook: true
