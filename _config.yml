@@ -31,7 +31,7 @@ header:
     Category: /category/
     Donate: https://laobubu.net/donate.html
 
-permalink: /:categories/:title/
+permalink: date
 plugins:
  - jekyll-paginate
  - jekyll-gist
