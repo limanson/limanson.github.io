@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Blog Name
-description: Software Developer
+name: Villan Site
+description: Game Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://limanson.github.io
